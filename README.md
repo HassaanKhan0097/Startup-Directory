@@ -1,4 +1,5 @@
 # 🚀 Project Name
+Startup Directory - An entrepreneurs platform
 
 ## 📌 Description
 A React 19 and Next.js 15 platform where entrepreneurs can submit their startup ideas and gain exposure from other ideas through a clean minimalistic design for a smooth user experience.
@@ -8,7 +9,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/your-repo.git
+   git clone https://github.com/HassaanKhan0097/Startup-Directory.git
    cd your-repo
    ```
 
@@ -33,4 +34,4 @@ This project is licensed under the [MIT License](LICENSE).
 Feel free to contribute! Fork the repo, make your changes, and submit a pull request.
 
 ## 📬 Contact
-For any inquiries or feedback, reach out to me at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or feedback, reach out to me at [hassaankhan0097@gmail.com](mailto:hassaankhan0097@gmail.com).
